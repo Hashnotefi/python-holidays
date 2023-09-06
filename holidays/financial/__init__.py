@@ -12,4 +12,5 @@
 # flake8: noqa: F401
 
 from .european_central_bank import EuropeanCentralBank, ECB, TAR
+from .federal_reserve import FederalReserve, FEDRESERVE, FRES
 from .ny_stock_exchange import NewYorkStockExchange, NYSE, XNYS

@@ -161,6 +161,7 @@ COUNTRIES: RegistryDict = {
 FINANCIAL: RegistryDict = {
     "european_central_bank": ("EuropeanCentralBank", "ECB", "TAR"),
     "ny_stock_exchange": ("NewYorkStockExchange", "NYSE", "XNYS"),
+    "federal_reserve": ("FederalReserve", "FEDRESERVE", "FRES"),
 }
 
 
